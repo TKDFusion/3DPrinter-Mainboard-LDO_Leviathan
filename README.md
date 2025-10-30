@@ -2,7 +2,7 @@
 
 # Voron Leviathan
 Voron Leviathan is collaboration between JNP and the team at LDO to create a controller board specific for the needs of Voron 3D printers. It features: 
-- STM32F446 Microcontroller at 180Mhz clock speed. 
+- STM32H743 Microcontroller at 480Mhz clock speed. 
 - Reverse polarity protection for main power supply and HV Stepper supply input
 - Superior stepper driver cooling (passive)
 - Dedicated mounting space for a Raspberry Pi 3,4,5 or Zero 2W
